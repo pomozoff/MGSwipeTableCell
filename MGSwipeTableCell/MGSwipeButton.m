@@ -108,5 +108,8 @@
     }
     self.tintColor = tintColor;
 }
+- (void)updateIcon:(UIImage *)icon {
+    [self setImage:[icon imageWithRenderingMode:UIImageRenderingModeAlwaysTemplate] forState:UIControlStateNormal];
+}
 
 @end
