@@ -53,9 +53,9 @@
 			isa = PBXGroup;
 			children = (
 				C63EE56E1BBA07ED008F46BB /* MGSwipeTableCell.h */,
+				C63EE5871BBA083B008F46BB /* MGSwipeTableCell.m */,
 				C63EE5851BBA083B008F46BB /* MGSwipeButton.h */,
 				C63EE5861BBA083B008F46BB /* MGSwipeButton.m */,
-				C63EE5871BBA083B008F46BB /* MGSwipeTableCell.m */,
 				C63EE5701BBA07ED008F46BB /* Info.plist */,
 			);
 			path = MGSwipeTableCell;
