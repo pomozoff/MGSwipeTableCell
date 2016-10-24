@@ -155,5 +155,8 @@
     }
     self.tintColor = tintColor;
 }
+-(void) updateIcon:(UIImage *)icon {
+    [self setImage:icon forState:UIControlStateNormal];
+}
 
 @end
